@@ -29,4 +29,4 @@ Flag | Description
   -o, --output 				|Write the result in a file
   -p, --pattern 	|The charset pattern to be used
   -q, --quiet           			|Don't print the result
-  -T, --tail TAIL  				|Append a string to the end of the text
+  -T, --tail  				|Append a string to the end of the text
