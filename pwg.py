@@ -40,7 +40,7 @@ default charsets:
 
 optional arguments:
   -h, --help            			show this help message and exit
-  -H, --head HEAD  				Append a string to the beggining of the text
+  -H, --head HEAD  				Append a string to the beginning of the text
   -o, --output OUTPUT				Write the result in a file
   -p, --pattern [PATTERN [PATTERN ...]]		The charset pattern to be used
   -q, --quiet           			Don't print the result
