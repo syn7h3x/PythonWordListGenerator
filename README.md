@@ -19,7 +19,7 @@ Symbol | Charset
   %a | abcdefghijklmnopqrstuvwxyz
   %A | ABCDEFGHIJKLMNOPQRSTUVWXYZ
   %s | !@#$%&*_+<>-=~?()
-  %S | !@#$%&*_+<>-=~?()\/|^.,[]{}';:"
+  %S | \!\@\#\$\%\&\*\_\+\<\>\-\=\~\?\(\)\\/\|\^\.\,\[\]\{\}\'\;\:\"
 
 ## Arguments
 Flag | Description
