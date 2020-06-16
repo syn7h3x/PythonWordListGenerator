@@ -1,5 +1,5 @@
 # PythonWordListGenerator
-A python tool for custom wordlist list generator with pattern
+A python tool for custom wordlist list generator with pattern by @Syn7h3x
 ## Usage 
 `pwg.py [OPTIONS] -p [PATTERN [PATTERN ...]] `
 
@@ -25,8 +25,8 @@ Symbol | Charset
 Flag | Description
 ---- | -----------
   -h, --help            			|Show this help message and exit
-  -H, --head HEAD  				|Append a string to the beginning of the text
-  -o, --output OUTPUT				|Write the result in a file
-  -p, --pattern [PATTERN [PATTERN ...]]		|The charset pattern to be used
+  -H, --head   				|Append a string to the beginning of the text
+  -o, --output 				|Write the result in a file
+  -p, --pattern 	|The charset pattern to be used
   -q, --quiet           			|Don't print the result
   -T, --tail TAIL  				|Append a string to the end of the text
