@@ -8,9 +8,9 @@ A python tool for custom wordlist list generator with pattern by @Syn7h3x
 
   `pwg.py -H foo -T bar -p %S`	_pwg will generate a wordlist that starts at **foo!bar** and ends with **foo"bar**_
 
-  `pwg.py %A%a %d %d %d` 		_pwg will generate a wordlist that starts at **A000** and ends with **z999**_
+  `pwg.py -p %A%a %d %d %d` 		_pwg will generate a wordlist that starts at **A000** and ends with **z999**_
 
-  `pwg.py ABC 123 !@#`   		_pwg will generate a wordlist that starts at **A1!** and ends with **C3#**_
+  `pwg.py -p ABC 123 !@#`   		_pwg will generate a wordlist that starts at **A1!** and ends with **C3#**_
 
 ## Default charsets
 Symbol | Charset
